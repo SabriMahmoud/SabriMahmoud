@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">A Computer Science Engineering Student passionate about Data Science and Artificial Intelligence</h3>
 <br/>
  <img src="https://image.shutterstock.com/z/stock-vector-young-man-programmer-working-on-computer-with-code-on-screen-student-programming-vector-concept-741320251.jpg" alt="coding mood" align="right" width="400px">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chams16&label=Profile%20views&color=0e75b6&style=flat" alt="sabri" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SabriMahmoud&label=Profile%20views&color=0e75b6&style=flat" alt="sabri" /> </p>
 
 - 🔭 I’m currently working on applying the European General Data Protection Regulation  in Big Data Systems
 - 🌱 I’m currently learning **Apache Kafka, Apache Spark**
