@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **sabri.mahmoud@eniso.u-sousse.tn**
 
-- 📄 Know about my experiences [https://sabrimahmoudportfolio1.herokuapp.com/](https://sabrimahmoudportfolio1.herokuapp.com/)
+- 📄 Know about my experiences visit my personal website [https://sabrimahmoudportfolio1.herokuapp.com/](https://sabrimahmoudportfolio1.herokuapp.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
