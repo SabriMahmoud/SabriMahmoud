@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif" alt="coding mood" align="center" width="400px">
-<h1 align="center">Hi 👋, I'm Sabri Mahmoud</h1>![68747470733a2f2f7777772e64727570616c2e6f72672f66696c65732f70726f6a6563742d696d616765732f5661756c745f566572746963616c4c6f676f5f46756c6c436f6c6f725f302e706e67](https://user-images.githubusercontent.com/80068228/172112424-797b1f94-90dd-447c-927f-a44cb8f668d5.png)
+<h1 align="center">Hi 👋, I'm Sabri Mahmoud</h1>!
 
 <h3 align="center">A Computer Science Engineering Student passionate about Data Science and Artificial Intelligence</h3>
 <br/>
- <img src="https://image.shutterstock.com/z/stock-vector-young-man-programmer-working-on-computer-with-code-on-screen-student-programming-vector-concept-741320251.jpg" alt="coding mood" align="right" width="400px">
+ <img src="https://i.ibb.co/ZKQ2mS6/illustration-cover-removebg-preview.png" alt="coding mood" align="right" width="400px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SabriMahmoud&label=Profile%20views&color=0e75b6&style=flat" alt="sabri" /> </p>
 
 - 🔭 I’m currently working on applying the European General Data Protection Regulation  in Big Data Systems
@@ -64,8 +64,24 @@ Here are some ideas to get you started:
  </a>
  
  
- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+ <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+ </a> 
+ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+ </a> 
+ <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+ </a>
+ <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+ </a>
+ <a href="https://spring.io/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+ </a> 
+</p>
 <br/>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SabriMahmoud&show_icons=true&locale=en&layout=compact" alt="sabri" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SabriMahmoud&show_icons=true&locale=en" alt="sabri" /></p>
