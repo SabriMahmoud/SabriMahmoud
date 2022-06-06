@@ -1,4 +1,4 @@
-### Hello World !!  👋
+
 
 <!--
 **SabriMahmoud/SabriMahmoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <img src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif" alt="coding mood" align="center" width="400px">
-<h1 align="center">Hi 👋, I'm Sabri Mahmoud</h1>!
+<h1 align="center">Hi 👋, I'm Sabri Mahmoud ! </h1>
 
 <h3 align="center">A Computer Science Engineering Student passionate about Data Science and Artificial Intelligence</h3>
 <br/>
